@@ -1,0 +1,14 @@
+# Bottega Veneta web scraped data 
+
+## About the website
+
+[Bottega Veneta](https://www.bottegaveneta.com/) is a luxury Italian fashion brand renowned for its artisanal leather goods. Founded in 1966 in Vicenza, Veneto, Italy, by Michele Taddei and Renzo Zengiaro, it was acquired by the [Gucci Group](https://en.wikipedia.org/wiki/Kering), and is currently part of the French conglomerate [Kering](https://en.wikipedia.org/wiki/Kering). The brand is famous for its motto "When your own initials are enough", reflecting its commitment to understated luxury. Known for its signature intrecciato woven leather, Bottega Veneta offers a range of products including luxury handbags, shoes, and ready-to-wear. The company is not publicly listed, thus its stock market information is not applicable. You can find more information on the [Wikipedia page of Bottega Veneta](https://en.wikipedia.org/wiki/Bottega_Veneta).
+
+There are several significant competitors in the luxury fashion market with comparable business models to **Bottega Veneta**. One of such is [Louis Vuitton](https://www.louisvuitton.com/), a French fashion house that also operates under the umbrella of a larger parent company, LVMH. Renowned for its monogrammed handbags, Louis Vuitton offers a similar range of products including luxury leather goods, fashion, and accessories. More details are available on the [Wikipedia page of Louis Vuitton](https://en.wikipedia.org/wiki/Louis_Vuitton) and the [Bloomberg page of Louis Vuitton](https://www.bloomberg.com/profile/company/LVMUY:US). Another significant competitor is [Hermes](https://www.hermes.com/), an independent French luxury goods manufacturer famous for its Birkin bags and silk scarves. More information on Hermes can be found on their [Wikipedia page](https://en.wikipedia.org/wiki/Hermès) and the [Bloomberg page of Hermes](https://www.bloomberg.com/profile/company/RMS:FP).
+
+Web-scraped data from **Bottega Venetas** website can be used to gather factual data for multiple useful applications. If you are a competitor, you can track product prices, and discounts to gain a competitive edge. Investors and market analysts can use this data to gauge the brands pricing strategy and market positioning. In addition, trend forecasters can use this information to scrutinize design and fashion trends in the luxury market. Furthermore, this data can also be used in creating shopping comparison sites or applications, providing consumers with the ability to compare prices of identical products across various online stores. Finally, market researchers can also use this data to study consumer behavior, shopping trends, and purchase patterns.
+
+
+## Link to **dataset**
+
+[Bottega Veneta dataset](https://www.databoutique.com/buy-data-list-subset/Bottega%20Veneta%20web%20scraped%20data/r/recjvWcfcMtlzCSoj)
